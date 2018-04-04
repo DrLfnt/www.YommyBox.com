@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'cartel-deux-black';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/180227060209cartel-deux-black.eot');
+				src: local('cartel-deux-black'), url('/wp-content/uploads/useanyfont/180227060209cartel-deux-black.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/180227060209cartel-deux-black.woff') format('woff');
+			}
+            
+            .et_gf_cartel-deux-black{background:none !important;font-family:cartel-deux-black;text-indent:0 !important;font-size:25px;}
+            
+		
