@@ -1,2 +1,0 @@
-# www.YommyBox.com
-eCommerce
